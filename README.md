@@ -24,4 +24,4 @@ Contributions to this repository are always welcome! If you have any additional 
 
 ## Contact 📧
 
-If you have any questions or suggestions, you can reach out to me at [parthadeori76@gmail.com](mailto:parthadeori76@gmail.com). Happy learning! 💻🐍
+If you have any questions or suggestions, you can reach out to me at [My Mail](mailto:parthadeori76@gmail.com). Happy learning! 💻🐍
