@@ -43,6 +43,6 @@ Once you've solved the question, proceed to the next step to check your solution
 
 ## **Next Steps**
 
-Now that you have written your first Python program, you are ready to dive deeper into Python programming. Head over to "Lesson 2" to learn more about variables, data types, and basic operations in Python.
+Now that you have written your first Python program, you are ready to dive deeper into Python programming. Head over to "Lesson 2" to learn more about printing, inputting, and commenting in Python.
 
 Happy coding! 🚀
