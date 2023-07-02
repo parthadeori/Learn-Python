@@ -57,12 +57,6 @@ Once the cloning process is complete, you will have a local copy of the "Learn P
 
 Congratulations! You have completed the lesson and practiced your Python programming skills.
 
-## **Code Playground**
-
-For an interactive experience and to see the actual code in action, you can visit the code playground for each lesson. The code playground links are provided in the `README.md` file of each lesson folder.
-
-Feel free to explore the code playgrounds to further enhance your understanding of Python concepts.
-
 ## **Folder Structure**
 
 The repository contains the following folder structure:
