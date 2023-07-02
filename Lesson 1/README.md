@@ -1,52 +1,48 @@
-# **Lesson 1: My First Python Program**
+# **Lesson 1: Write your First Python Program 🐍 **
 
-📁 This folder contains a simple Python program that serves as an introduction to programming with Python. The program is designed to provide a basic understanding of Python syntax and how to run a Python script.
+📁 This folder contains the first lesson in the "Learn Python" series. In this lesson, you will learn how to write your first Python program using the `print()` function. Follow the instructions below to get started.
 
-## **Program Description**
+## **Writing Your First Python Program**
 
-📝 The program is a "Hello, World!" program, which is a traditional first program in programming languages. It simply prints the message "Hello, World!" to the console.
+Let's write a simple Python program that uses the `print()` function to display some messages on the screen. This will help you understand how the `print()` function works and how to use it to output different types of data.
 
-## **Prerequisites**
+1. 📝 **Open the `main.py` file** in your text editor or code editor.
 
-🔧 To run this program, you need to have Python installed on your machine. You can download the latest version of Python from the official Python website ([python.org](https://python.org)) and follow the installation instructions.
-
-## **Running the Program**
-
-1. Open a text editor or an integrated development environment (IDE) of your choice.
-2. Create a new file and save it with a `.py` extension, such as `hello_world.py`.
-3. In the file, enter the following code:
+2. You will see the following code into the `main.py` file:
 
 ```python
-# This is a simple Hello, World! program in Python.
-
-# Print the message to the console
+# This is a simple Python program to print "Hello, World!" on the screen.
 print("Hello, World!")
 ```
 
-4. Save the file.
+## **Running the Python Program**
 
-To run the program, you have a few options:
+▶️ **To run the code inside VS Code**, click on the "Run" menu at the top and choose "Run Without Debugging" or use the keyboard shortcut `Ctrl + F5`. You can also run the code in a terminal by navigating to the folder and running the `python main.py` command.
 
-**Option 1: Command Line**
-
-1. Open a command prompt or terminal.
-2. Navigate to the directory where you saved the `hello_world.py` file.
-3. Run the following command:
-
-```bash
-python hello_world.py
+```
+Hello, World!
 ```
 
-You should see the output `Hello, World!` printed to the console.
+Congratulations! 🎉 You have successfully written and executed your first Python program using the `print()` function.
 
-**Option 2: Integrated Development Environment (IDE)**
+<!-- ## **Code Playground**
 
-1. Open your preferred IDE.
-2. Open the `hello_world.py` file.
-3. Run the script using the IDE's run or execute command.
+For an interactive experience and to see the actual code in action, you can visit the code playground for this lesson: [Lesson 1 Code Playground](https://www.online-python.com/HJMK7cwdGE)
 
-The output should be displayed in the IDE's console.
+Feel free to experiment and modify the code to see how it behaves. -->
 
-## **Contributing**
+## **Practise Exercise**
 
-🤝 If you want to contribute to this program by adding new features or improving existing code, feel free to fork this repository. Your contributions are always welcome!
+Now, let's move on to the next step! Open the `practice.py` file and solve the given question.
+
+Your task is to write the code in the `practice.py` file and run it..
+
+💡 **Hint**: You can use the `print()` function to display the result on the screen.
+
+Once you've solved the question, proceed to the next step to check your solution.
+
+## **Next Steps**
+
+Now that you have written your first Python program, you are ready to dive deeper into Python programming. Head over to "Lesson 2" to learn more about variables, data types, and basic operations in Python.
+
+Happy coding! 🚀
