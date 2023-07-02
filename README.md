@@ -63,8 +63,6 @@ For an interactive experience and to see the actual code in action, you can visi
 
 Feel free to explore the code playgrounds to further enhance your understanding of Python concepts.
 
-Feel free to explore the code playgrounds to further enhance your understanding of Python concepts.
-
 ## **Folder Structure**
 
 The repository contains the following folder structure:
