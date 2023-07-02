@@ -72,7 +72,7 @@ Feel free to modify the code, try different inputs, and observe the results. -->
 
 Now, let's move on to the next step! Open the `practice.py` file and solve the given question.
 
-Your task is to write the code in the `practice.py` file and run it..
+Your task is to write the code in the `practice.py` file and run it.
 
 💡 **Hint**: You can use the `input()` function to display the result on the screen.
 
