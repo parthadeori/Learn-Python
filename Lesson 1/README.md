@@ -1,4 +1,4 @@
-# **Lesson 1: Write your First Python Program 🐍 **
+# **Lesson 1: Write your First Python Program** 🐍
 
 📁 This folder contains the first lesson in the "Learn Python" series. In this lesson, you will learn how to write your first Python program using the `print()` function. Follow the instructions below to get started.
 
