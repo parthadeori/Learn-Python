@@ -107,6 +107,6 @@ In the example above, the placeholders `{}` within the string are replaced with 
 
 Now that you have learned the basics of working with strings in Python, you can proceed to the next lesson to explore more advanced string manipulation techniques and string formatting options.
 
-🔗 [Code Playground](link-to-code-playground)
+<!-- 🔗 [Code Playground](link-to-code-playground)
 
-In the code playground, you can experiment with different string operations, methods, and formatting techniques. Have fun exploring and enhancing your understanding of strings in Python!
+In the code playground, you can experiment with different string operations, methods, and formatting techniques. Have fun exploring and enhancing your understanding of strings in Python! -->
