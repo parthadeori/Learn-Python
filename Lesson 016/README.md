@@ -42,14 +42,6 @@ In this example, `message[7:12]` extracts the substring "World" starting from th
 
 Write a Python program that prompts the user to enter a word. Using string indexes, print the first and last characters of the word on separate lines.
 
-```python
-word = input("Enter a word: ")
-print("First character:", word[0])
-print("Last character:", word[-1])
-```
-
 ## **Next Steps**
 
 Congratulations on learning about string indexes! You can now access individual characters or substrings within a string using indexes. In the next lesson, we will explore more about manipulating and modifying strings in Python.
-
-**[Continue to Lesson 17: String Methods](#lesson-17-string-methods)**
