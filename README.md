@@ -66,17 +66,17 @@ Feel free to explore the code playgrounds to further enhance your understanding 
 The repository contains the following folder structure:
 
 ```css
-├── Lesson 1
+├── Lesson 001
 │   ├── README.md
 │   ├── main.py
 │   ├── practice.py
 │   └── solution.py
-├── Lesson 2
+├── Lesson 002
 │   ├── README.md
 │   ├── main.py
 │   ├── practice.py
 │   └── solution.py
-├── Lesson 3
+├── Lesson 003
 │   ├── README.md
 │   ├── main.py
 │   ├── practice.py
