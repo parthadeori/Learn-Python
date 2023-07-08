@@ -6,6 +6,16 @@ In Python, lists are a fundamental data structure that allow you to store and ma
 
 Here are some commonly used list methods in Python:
 
+### `len()`
+
+The `len()` function in Python is used to determine the length or the number of elements in a list. It returns the total count of items in the list.
+
+```python
+fruits = ["apple", "banana", "cherry"]
+length = len(fruits)
+print(length)  # Output: 3
+```
+
 ### `append()`
 
 The `append()` method adds an element to the end of the list.
@@ -47,59 +57,40 @@ print(removed_item)  # Output: "banana"
 print(fruits)  # Output: ["apple", "cherry"]
 ```
 
-### `index()`
-
-The `index()` method returns the index of the first occurrence of a specified element in the list.
-
-```python
-fruits = ["apple", "banana", "cherry"]
-index = fruits.index("banana")
-print(index)  # Output: 1
-```
-
-### `sort()`
-
-The `sort()` method sorts the list in ascending order.
-
-```python
-numbers = [4, 2, 1, 3]
-numbers.sort()
-print(numbers)  # Output: [1, 2, 3, 4]
-```
-
-### `reverse()`
-
-The `reverse()` method reverses the order of elements in the list.
-
-```python
-fruits = ["apple", "banana", "cherry"]
-fruits.reverse()
-print(fruits)  # Output: ["cherry", "banana", "apple"]
-```
-
-### `count()`
-
-The `count()` method returns the number of occurrences of a specified element in the list.
-
-```python
-fruits = ["apple", "banana", "cherry", "apple"]
-count = fruits.count("apple")
-print(count)  # Output: 2
-```
 
 ## **Practice Exercise**
 
-Write a Python program that creates a list called `numbers` with some numbers of your choice. Use the appropriate list methods to:
+Here's a practice exercise that involves using the `append()`, `insert()`, `remove()`, and `pop()` methods on a list:
 
-1. Add the number `10` to the end of the list.
-2. Remove the number `5` from the list.
-3. Sort the list in ascending order.
-4. Print the final list.
+1. Create an empty list called `fruits`.
+2. Prompt the user to enter the names of three fruits, one at a time. Use the `append()` method to add each fruit to the `fruits` list.
+3. Prompt the user to enter an additional fruit name. Use the `insert()` method to add this fruit at the beginning of the `fruits` list.
+4. Print the `fruits` list.
+5. Prompt the user to enter a fruit name to remove from the list. Use the `remove()` method to remove the specified fruit from the `fruits` list.
+6. Print the updated `fruits` list.
+7. Use the `pop()` method to remove and print the last fruit from the `fruits` list.
+8. Print the final `fruits` list.
 
-## Next Steps
+Example Output:
+```
+Enter a fruit name: apple
+Enter a fruit name: banana
+Enter a fruit name: cherry
+Enter another fruit name: date
+Initial list of fruits: ['date', 'apple', 'banana', 'cherry']
+Enter a fruit to remove: apple
+Updated list of fruits: ['date', 'banana', 'cherry']
+Popped fruit: cherry
+Final list of fruits: ['date', 'banana']
+```
+
+This exercise helps you practice the usage of the `append()`, `insert()`, `remove()`, and `pop()` methods, which are important methods for manipulating and modifying lists in Python.
+
+
+## **Next Steps**
 
 Great job on learning about list methods in Python! These methods provide powerful tools for manipulating and working with lists efficiently. In the next lesson, we will explore more advanced concepts and techniques in Python.
 
 Keep practicing and experimenting with list methods to enhance your Python programming skills!
 
-## :pencil: [Continue to Lesson 25: Advanced Concepts](#lesson-25-advanced-concepts)
+## ✏️ [Continue to Lesson 25:](#lesson-25-advanced-concepts)

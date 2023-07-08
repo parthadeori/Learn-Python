@@ -1,15 +1,27 @@
-# Write a Python program that creates a list called `numbers` with some numbers of your choice. Use the appropriate list methods to:
+fruits = []
 
-numbers = [8, 3, 5, 1, 6]
+# Prompt the user to enter three fruits
+for _ in range(3):
+    fruit = input("Enter a fruit name: ")
+    fruits.append(fruit)
 
-# Add 10 to the end of the list
-numbers.append(10)
+# Prompt the user to enter an additional fruit
+additional_fruit = input("Enter another fruit name: ")
+fruits.insert(0, additional_fruit)
 
-# Remove 5 from the list
-numbers.remove(5)
+# Print the initial list of fruits
+print("Initial list of fruits:", fruits)
 
-# Sort the list in ascending order
-numbers.sort()
+# Prompt the user to enter a fruit to remove
+fruit_to_remove = input("Enter a fruit to remove: ")
+fruits.remove(fruit_to_remove)
 
-# Print the final list
-print(numbers)
+# Print the updated list of fruits
+print("Updated list of fruits:", fruits)
+
+# Pop the last fruit from the list and print it
+last_fruit = fruits.pop()
+print("Popped fruit:", last_fruit)
+
+# Print the final list of fruits
+print("Final list of fruits:", fruits)
