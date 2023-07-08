@@ -1,4 +1,4 @@
-# Lesson 4: Numbers in Python
+# **Lesson 4: Numbers in Python**
 
 🔢 Welcome to the "Lesson 4: Numbers in Python" lesson! In this lesson, we'll explore the different types of numbers in Python and how to work with them. Python provides several built-in numeric types, including integers, floating-point numbers, and complex numbers. Let's dive in!
 
